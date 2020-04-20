@@ -4,7 +4,7 @@
 	h1       { color:#D5D8DC ; font-family:verdana ; text-decoration: underline }
 	h2       { color:#D5D8DC ; font-family:verdana ; text-decoration: underline }
 	h3       { color:#D5D8DC ; font-family:arial ; text-decoration: underline }
-	body     { background-image:url("Images/Me.png") ; background-color:#4A493F }
+	body     { background-image: url(https://cdn.jsdelivr.net/gh/NimW/angular-Nim@master/src/ET-710%20NWW/Images/Me.png) ; background-color:#4A493F }
 	p        { font-family: verdana }
 	td       { color:#D5D8DC ; font-family: verdana }
 	li       { font-family: arial ; color : midnightblue }
@@ -14,4 +14,3 @@
 	input    { background-color:#2471A3; border: none; color:#CCEEFF; cursor: pointer; text-align: center; position:relative; font-family:verdana; font-size: 1em; margin:none }
 	input:hover { color:#E173B1 }
 	.redtext { color : #E173B1 }
-
